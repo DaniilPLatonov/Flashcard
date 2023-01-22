@@ -21,7 +21,7 @@ class Main {
         mainMenu(addRemove, args);
 
     }
-//g
+//gf
     public static void comandLine(String[] args) {
         checkImport = true;
         checkExport = true;
