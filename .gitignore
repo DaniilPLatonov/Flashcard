@@ -1,0 +1,10 @@
+# Project exclude paths
+/.gradle/
+/Flashcards/task/build/
+/Flashcards/task/out/production/classes/
+/Topics/NPE/Avoid NPE/out/
+/Topics/NPE/Avoid NPE/out/production/classes/
+/Topics/NPE/Theory/out/
+/Topics/NPE/Theory/out/production/classes/
+/Topics/NPE/Where NPE might occur/out/
+/Topics/NPE/Where NPE might occur/out/production/classes/

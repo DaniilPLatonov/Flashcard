@@ -1,0 +1,10 @@
+Paris:France
+Moscow:Russia
+Berlin:Germany
+w:u
+a:y
+h:r
+
+Paris:0
+Moscow:2
+Berlin:3
