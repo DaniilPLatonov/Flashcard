@@ -1,5 +1,0 @@
-Japan:Tokyo
-France:PAris
- 
-Japan:0
-France:0
