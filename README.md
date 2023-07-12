@@ -18,6 +18,7 @@ As a start, implement a program that outputs a single term and its definition. Y
 
 This stage is auto-graded. The grader will check that:
 
+
 + you output 4 lines,
 + the first line is `Card:`,
  + the third line is `Definition:`.
