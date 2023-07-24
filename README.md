@@ -15,6 +15,7 @@ You will learn to work with files and call them from the command-line.
 ___
 
 
+
 You may already know that a flashcard is a piece of paper that contains a term on one side and a related text you want to remember on another one. Flashcards are often used to learn a foreign language, so let's say this text is just a definition of the term.
 
 We offer you to create an application that emulates a set of flashcards on a screen. While developing this application, you not only learn programming, but also save paper!
